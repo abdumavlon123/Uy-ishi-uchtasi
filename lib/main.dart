@@ -146,7 +146,7 @@ class _OTPVerificationPageState extends State<OTPVerificationPage> {
         ),
       ),
       child: Text(
-        "Continue",
+        "Continuenk",
         style: TextStyle(fontSize: 18, color: Colors.white),
       ),
     ),
